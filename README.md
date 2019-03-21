@@ -1,2 +1,5 @@
 # Notes
-Simple note app written in java with MVVM as architecture pattern.
+Simple note app written in java.
+- MVVM architecture pattern
+- Room persistence library for SQLite
+- LiveData 
