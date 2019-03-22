@@ -34,6 +34,8 @@
             android:id="@+id/text_view_description"
             android:layout_below="@+id/text_view_title"
             android:text="Description"
+            android:ellipsize="end"
+            android:maxLines="1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </RelativeLayout>
